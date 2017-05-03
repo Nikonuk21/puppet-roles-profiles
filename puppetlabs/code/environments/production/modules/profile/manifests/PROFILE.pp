@@ -1,4 +1,4 @@
-# Class: profile::<PROFILE>
+# Class: profile::<PROFILE_HERE>
 # ===========================
 #
 # Assigns modules that are required to all roles.
@@ -16,7 +16,7 @@
 # Examples
 # --------
 #
-# include ::profile::<PROFILE>
+# include ::profile::<PROFILE_HERE>
 #
 # Authors
 # -------
@@ -28,5 +28,5 @@
 #
 # Copyright 2017 David Savell
 #
-class profile::<PROFILE> {
+class profile::<PROFILE_HERE> {
 }

@@ -29,8 +29,6 @@
 # Copyright 2017 David Savell
 #
 class utilities::params (
-
-  $<PARAM HERE>,
  
 ) {
 }
