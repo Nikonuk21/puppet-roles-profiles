@@ -6,7 +6,7 @@ Most of the files will need to be changed and edited.
 Example:
 
 hieradata/ROLE.yaml
-to webserver.yaml
+to webserver.yaml within that:
 profile::<PROFILE_HERE> to profile::apache
 
 modules/profile/manifests/PROFILE.pp
