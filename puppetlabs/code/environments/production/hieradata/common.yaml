@@ -1,0 +1,11 @@
+---
+classes:
+    - ntp
+puppetmaster: '<PUPPET MASTER HOSTNAME>'
+ntp::autoupdate: true
+ntp::enable: true
+ntp::servers:
+  - <NTP SERVER1> iburst
+  - <NTP SERVER2> iburst
+  - <NTP SERVER3> iburst
+  - <NTP SERVER4> iburst
