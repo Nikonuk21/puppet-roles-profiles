@@ -1,7 +1,7 @@
 # puppet-roles-profiles
 Hiera Based Role Assignment &amp; Profile Assigning.
 
-These are Supplied puppet files that are awaiting configuration, this is to get started on a basic role & profile hiera setup.
+This is my Puppet tree to get a basic setup of hiera, roles and profile environment.
 
 Most of the files will need to be changed and edited to your own liking.
 
