@@ -1,7 +1,7 @@
 ---
 classes:
     - ntp
-puppetmaster: 'puppet.hostname.com/.co.uk'
+puppetmaster: '<PUPPET HOST NAME>'
 ntp::autoupdate: true
 ntp::enable: true
 ntp::servers:
